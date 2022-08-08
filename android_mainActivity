@@ -1,0 +1,37 @@
+package org.techtown.capston;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+
+import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.Marker;
+import com.google.android.gms.maps.model.MarkerOptions;
+
+public class MainActivity extends AppCompatActivity implements OnMapReadyCallback {
+    private GoogleMap mMap;
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        SupportMapFragment mapFragment=(SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map);
+        mapFragment.getMapAsync(this);
+    }
+    public void onMapReady(final GoogleMap googleMap){
+        mMap=googleMap;
+        //아래 위치는 DB에서 가지고와야함
+        LatLng Locate =new LatLng(37.56,126.97);
+        MarkerOptions markerOption=new MarkerOptions();
+        markerOption.position(Locate);
+        markerOption.title("서울");
+        mMap.addMarker(markerOption);
+        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(Locate,15));
+    }
+}
