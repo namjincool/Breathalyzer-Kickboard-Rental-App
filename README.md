@@ -39,4 +39,5 @@ This Android app has only saved front-end and back-end implementations, so you n
 
 ## Screenshots
 ![git1](https://user-images.githubusercontent.com/78140854/235622250-6b404164-64d5-4310-8cc1-e1819e63f734.jpg)
+![git2](https://user-images.githubusercontent.com/78140854/235623500-8f6df8d0-9caf-403f-9042-1d0932016a0b.png)
 
