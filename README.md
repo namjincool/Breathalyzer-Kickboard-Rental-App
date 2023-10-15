@@ -23,6 +23,6 @@
 <img src="https://github.com/namjincool/Breathalyzer-Kickboard-Rental-App/assets/78140854/6f0cae6c-9927-447e-a9ab-9cc79525160c" width="33%">
 
 ## problem
-킥보드를 제어 할 때 조건문을 이용해 구현 했습니다. 
+킥보드를 제어 할 때 조건문을 이용해 구현 했습니다. <br>
 (킥보드의 개수가 적어 구현 성공 했습니다. 하지만 킥보드가 많다면? ...
 필요 : JSON에 킥보드 데이터를 넣어서 구현하면 더 효율적이게 구현이 가능함)
