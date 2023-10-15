@@ -11,6 +11,7 @@
 
 ## Project Operation
 ![kick1](https://github.com/namjincool/Breathalyzer-Kickboard-Rental-App/assets/78140854/6a3732c0-d0ba-4d29-874b-a0634efc2ae7)
+<img src="https://github.com/namjincool/Breathalyzer-Kickboard-Rental-App/assets/78140854/fdb5d5c4-8bc6-42c5-9f18-7b61dd3342f5" width="50%">
 ![kick2](https://github.com/namjincool/Breathalyzer-Kickboard-Rental-App/assets/78140854/03e47e80-f9d5-47ad-8fa9-8e47c21e4c4e)
 ![kick3](https://github.com/namjincool/Breathalyzer-Kickboard-Rental-App/assets/78140854/ef772a93-e5e9-4186-bbec-269ebab1c7a0)
 ![kick4](https://github.com/namjincool/Breathalyzer-Kickboard-Rental-App/assets/78140854/1b578c37-351d-4def-95d0-d6cc2a680877)
