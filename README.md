@@ -17,3 +17,12 @@
 <img src="https://github.com/namjincool/Breathalyzer-Kickboard-Rental-App/assets/78140854/7cbe600d-4b38-4789-aff9-04ad5a1d77f0" width="30%">
 <img src="https://github.com/namjincool/Breathalyzer-Kickboard-Rental-App/assets/78140854/1b3f3711-06a9-44aa-84ad-d3f450ba5645" width="30%">
 
+## Tools to Use And API
+<img src="https://github.com/namjincool/Breathalyzer-Kickboard-Rental-App/assets/78140854/90c6c2b1-17fb-4991-9244-8e2093e50f4b" width="33%">
+<img src="https://github.com/namjincool/Breathalyzer-Kickboard-Rental-App/assets/78140854/c88263c6-9774-43b2-900a-82ef5125d119" width="33%">
+<img src="https://github.com/namjincool/Breathalyzer-Kickboard-Rental-App/assets/78140854/6f0cae6c-9927-447e-a9ab-9cc79525160c" width="33%">
+
+## problem
+킥보드를 제어 할 때 조건문을 이용해 구현 했습니다. 
+(킥보드의 개수가 적어 구현 성공했습니다 하지만 킥보드가 많다면? ...
+필요 : JSON에 데이터를 넣는 방법)
